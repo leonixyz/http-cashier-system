@@ -10,6 +10,7 @@ POC for a cashier system running on a webserver.
 * [hostapd](https://wiki.archlinux.org/index.php/Software_access_point)
 * [dhcpd](https://wiki.archlinux.org/index.php/dhcpd)
 * [ESC/P thermal printer on /dev/usb/lp0](http://vi.raptor.ebaydesc.com/ws/eBayISAPI.dll?item=382662737478)
+* a wireless wlan0 interface
 
 ## Setup
 
