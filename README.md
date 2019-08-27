@@ -27,3 +27,6 @@ Products are stored into **./app.sqlite3** in table *products*. Run `# sqlite3 /
 
 You can also delete **./app.sqlite3**, then point your browser to your host on "/admin.php". This will recreate an empty **app.sqlite3**. Next, you have to re-populate table *products*.
 
+## TODO
+
+* ESC/P allows the printer to send a signal for opening the cash drawer, provided that the printer is connected to a cash drawer with a standard RJ11 cable.
