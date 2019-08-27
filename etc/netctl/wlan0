@@ -1,0 +1,8 @@
+Description='A static IP for the wireless interface acting as AP'
+Interface=wlan0
+Connection=ethernet
+IP=static
+Address=('10.0.0.1/24')
+Gateway=('10.0.0.1')
+DNS=('10.0.0.1')
+SkipNoCarrier=yes
